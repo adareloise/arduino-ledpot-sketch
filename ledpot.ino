@@ -5,7 +5,7 @@
    analogWrite() para controlar la intensidad de un led co
    un potenciometro encendido y apagado con un led.
 
- */
+*/
  
 #define LED_PIN 11
 #define BUTTON_PIN 3
